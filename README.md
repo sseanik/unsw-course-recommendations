@@ -1,4 +1,4 @@
-# UNSW Course Recommendations
+# My UNSW Computer Science Review
 
 ### 19T1
 * COMP1511 [CORE] - Programming Fundamentals
