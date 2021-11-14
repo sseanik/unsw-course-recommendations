@@ -25,10 +25,10 @@
 ### 19T3
 * **COMP1531** [CORE] - Software Engineering Fundamentals
 * **COMP3311** [ELECTIVE] - Database Systems
- 	* **Description**: 
+ 	* **Description**: Learn SQL, specifically PostgreSQL
 	* **Lecturer**: John Sheppard
-	* **Difficulty**: 
-	* **Review**: 
+	* **Difficulty**: Easy - Medium.
+	* **Review**: Very useful course, you will have to learn SQL at some point, why not in this course. The homework, assignments and even the exam have fun databases (e.g. pizza, beer databases) and the course is paced quite nicely. Some people dislike Jas cos he sounds 'old' and 'boring', I found him quite endearing and he was easily understandable.
 * BENV2409 [GEN ED] - Immersive Digital Environments
 
 ### 20T0 Summer
@@ -62,10 +62,10 @@
 	* **Difficulty**: 
 	* **Review**: 
 * **COMP6443** [ELECTIVE] - Web Application Security
- 	* **Description**: 
-	* **Lecturer**: 
-	* **Difficulty**: 
-	* **Review**: 
+ 	* **Description**: Learn how to hack web applications in a practical and slightly theoretical way. You are given a bunch of web apps to hack, and once you successfully hack them, you find a flag (string of letters and numbers). The more you find, the higher your mark will be (it is in relation to your cohort). Core students get higher marks for less flags than extended, but just do core since you can watch the Extended lectures and learn while being a core student getting higher marks.
+	* **Lecturer**: Rotational Industry Experts
+	* **Difficulty**: Medium
+	* **Review**: Really fun course. You basically are doing a CTF every week for new topics, and a CTF for a midterm and final exam. You also have two group (of 5) reports on how you found the flags and the theory behind the methods of obtaining them (e.g. what is SQL injection).
 * **COMP3331** [ELECTIVE] - Computer Networks
  	* **Description**: 
 	* **Lecturer**: Wen Hu
@@ -89,9 +89,9 @@
 	* **Difficulty**: 
 	* **Review**: 
 * **COMP3900** [CORE] - Computer Science Project
- 	* **Description**: 
-	* **Difficulty**: 
-	* **Review**: 
+ 	* **Description**: Capstone project where you work in a group of 5 to deliver an application (usually a web app). The course gives you a selection of choices, but your group can choose your own custom one. You have to write user stories, acceptance criteria, use Jira to track progress, use Github for source control and write up a proposal and final report.
+	* **Difficulty**: Easy - Hard. Get a good group. I advertised in their WebCMS forums detailing my coding and work experience and I got the best of my class. Get a good group.
+	* **Review**: Great group project experience. My group had a frontend (React) & backend (Flask + AWS RDS PostgreSQL) team. 
 * **COMP9321** [FREE] - Data Service Engineering
  	* **Description**: You learn about Python, in particular Pandas and Numpy with tabular data manipulation. Pretty easy python stuff. Then onto Rest APIs, in particular with Flask Restx (which is Flask + Swagger documentation), then an Intro to Machine learning.
 	* **Lecturer**: Morty
@@ -111,9 +111,9 @@
 
 ### 21T3
 * **COMP4920** [CORE] - Ethics in IT
- 	* **Description**: 
+ 	* **Description**: Pure theory, essay writing and the like. There are two Lecture Summaries, one pair Movie Review (on the Social Dilemma), a group (4 - 5) seminar/presentation discussion and a final company case study.
 	* **Lecturer**: Wayne
-	* **Difficulty**: 
+	* **Difficulty**: Easy - Difficult. If you have a good Movie Review partner and a good seminar group, this course will be easy. Otherwise, challenges cos group work.
 	* **Review**: 
 * **CDEV3200** [FREE] - Co-NNECTIONS Placement
  	* **Description**: 
