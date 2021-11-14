@@ -4,7 +4,7 @@
 * **COMP1511** - Programming Fundamentals
  	* **Description**: Intro to Programming in C. Learn about arrays, looping, structs, pointers, functions, linked lists, a tiny bit of memory management. Tutorials are engaging, labs are automarked, so you complete them, run tests and you're done. Do the extension labs even if you can't get 100% as those tiny percents count.
 	* **Lecturer**: Marc Chee
-	* **Difficulty**: Easy if you have prior coding experience, Medium if it will be all new to you. Very manageable weekly work, assignment work, but the exam is an adjustment.
+	* **Difficulty**: <span style="color:blue">some *blue* text</span>. if you have prior coding experience, Medium if it will be all new to you. Very manageable weekly work, assignment work, but the exam is an adjustment.
 	* **Review**: Great course and structure. A practical course other than the exam having a 'Theory' portion (e.g. What does this code output?). Practice the weekly 'test/examish' content more.
 * **COMP1521** - Computer System Fundamentals
  	* **Description**: Basically an intro to lower level programming (MIPS) and lower levelish programming in C. This course helps you understand if you want to take OS, Networks, Concurrency, etc at a later stage.
