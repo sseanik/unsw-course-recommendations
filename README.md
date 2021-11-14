@@ -7,17 +7,17 @@
 	* **Difficulty**: 
 	* **Review**: 
 * **COMP1521** - Computer System Fundamentals
- 	* **Description**: Basically an intro to lower level programming (MIPS) and lower levelish programming in C. This course helps you understand if you want to take OS, Networks, Concurrency, etc.
+ 	* **Description**: Basically an intro to lower level programming (MIPS) and lower levelish programming in C. This course helps you understand if you want to take OS, Networks, Concurrency, etc at a later stage.
 	* **Lecturer**: Sahil - Good, kinda wish I had Andrew Taylor for this
-	* **Difficulty**: Hard - That dam exam. Jashank has too much fun writing exams, but forgets that it is for a first year course. I've never had an exam writer, come into the lecture room, boast about writing the exam and then give a kinda half warning, half brag.
-	* **Review**: The exam for this course is why I put hard. It's a bloody hard course, but the pre-exam stuff is manageable and sufficiently explained.
+	* **Difficulty**: Hard - That dam exam. Jashank has too much fun writing the exams. He forgets that it is for a first year course. I've never had an exam writer come into the lecture room, boast about writing the exam and then give a kinda half warning, half brag.
+	* **Review**: The exam for this course is why I put hard. It's a bloody hard course, but the pre-exam stuff is manageable and sufficiently doable. Feels weird being 15-2-1, but I found it the hardest out of 1521, 1531 and 2521.
 * **COMP1531** - Software Engineering Fundamentals
  	* **Description**: 
 	* **Lecturer**: 
 	* **Difficulty**: 
 	* **Review**: 
 * **COMP2521** - Data Structures & Algorithms
- 	* **Description**: DSA in C, which is kinda crazy. You need to do this course ASAP, because it is a prerequisite for pretty much everything. Trees, Graphs, Sorting, Time Complexity, all very important theory, the practical content through labs, assignments and the exam is sufficient, not too hard, but not easy. 
+ 	* **Description**: Feels like the next logical course after 1511. DSA in C, which is kinda crazy. You need to do this course ASAP, because it is a prerequisite for pretty much everything. Trees, Graphs, Sorting, Time Complexity, all very important theory, the practical content through labs, assignments and the exam is sufficient, not too hard, but not easy. 
 	* **Lecturer**:  Ashesh - Just gotta deal with it
 	* **Difficulty**: Medium - Hard
 	* **Review**: Necessary pain, Ashesh ain't fantastic, if you did this with Hayden, wow, you lucked out. Do it with Hayden if you can.
@@ -42,12 +42,12 @@
 	* **Review**: 
 
 ## COMP/Free Electives
-* **COMP2041** - Software Construction
+* **COMP2041** - Software Construction **(STRONGLY RECOMMEND)**
 	* **Description**: Shell and Perl and all those unix commands you take for granted. Very very useful course, if you hard of Regex, you learn it here. You could say it's a productivity scripting course, it just opens your eyes to why programming is so strong. All practical, just like COMP1511 with automarking for labs, and a dry test for assignments.
 	* **Lecturer**: Andrew Taylor - Great lecturer, made the content fun and interesting (replace all Hermione's in Harry Potter with his own name)
 	* **Difficulty**: Medium - Exam is what gets you. The assignments have very difficult parts at the end which are worth a tiny percentage.
 	* **Review**: Very much a practical course. I loved it, very useful, highly recommend.
-* **COMP3311** - Database Systems
+* **COMP3311** - Database Systems **(STRONGLY RECOMMEND)**
  	* **Description**: Learn SQL, specifically PostgreSQL
 	* **Lecturer**: John Sheppard
 	* **Difficulty**: Easy - Medium.
@@ -72,17 +72,17 @@
 	* **Lecturer**: Rotational Industry Experts
 	* **Difficulty**: Medium
 	* **Review**: Really fun course. You basically are doing a CTF every week for new topics, and a CTF for a midterm and final exam. You also have two group (of 5) reports on how you found the flags and the theory behind the methods of obtaining them (e.g. what is SQL injection).
-* **COMP6771** - Advanced C++
+* **COMP6771** - Advanced C++ **(STRONGLY RECOMMEND)**
  	* **Description**: You simply learn how to code in C++ in a very efficient way. Big trading companies (e.g. Optiver, IMC) love C++, and mostly use it, so it's quite a beneficial language to learn. Big game companies (e.g. Wargaming) love C++ too.
 	* **Lecturer**: Hayden
 	* **Difficulty**: Medium - Hard. It can be difficult to grasp, but
 	* **Review**: Hayden is a fantastic lecturer. You only really have 3 assignments and an exam, so the course is basically all practical. The assignments are hardish. They take time to complete. There are tutorials, but I never attended any. Hayden also recorded his tutes, so I just watched those.
-* **COMP6080** - Frontend
+* **COMP6080** - Frontend **(STRONGLY RECOMMEND)**
  	* **Description**: HTML/CSS -> Javascript -> Vanilla Javascript -> React. Very fun course. First assignment is recreate this image (of a website) in HTML, CSS and Javascript. Then given a backend, create a Vanilla Javascript frontend that uses it. Then given a backend, create a ReactJS frontend that uses it. 
 	* **Lecturer**: Hayden
 	* **Difficulty**: Medium - Assignments took time
 	* **Review**: You only have 3 assignments and an exam. A purely practical course and extremely useful for your career's future. Hayden is always fantastic at lecturing. The assignments are also fun (instagram and kahoot clones). Highly recommend.
-* **COMP9321** - Data Service Engineering
+* **COMP9321** - Data Service Engineering **(STRONGLY RECOMMEND)**
 	* **Description**: You learn about Python, in particular Pandas and Numpy with tabular data manipulation. Pretty easy python stuff. Then onto Rest APIs, in particular with Flask Restx (which is Flask + Swagger documentation), then an Intro to Machine learning.
 	* **Lecturer**: Morty
 	* **Difficulty**: Easy. You learn Python and Flask in COMP1531, so that part is easy.
