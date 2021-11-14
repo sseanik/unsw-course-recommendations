@@ -7,20 +7,20 @@
 
 ### 19T2
 * **COMP1521** [CORE] - Computer System Fundamentals
- 	* **Description**: 
+ 	* **Description**: Basically an intro to lower level programming (MIPS) and lower levelish programming in C. This course helps you understand if you want to take OS, Networks, Concurrency, etc.
 	* **Lecturer**: Sahil
-	* **Difficulty**: Hard
-	* **Review**: 
+	* **Difficulty**: Hard - That dam exam. Jashank has too much fun writing exams, but forgets that it is for a first year course. I've never had an exam writer, come into the lecture room, boast about writing the exam and then give a kinda half warning, half brag.
+	* **Review**: The exam for this course is why I put hard. It's a bloody hard course, but the pre-exam stuff is manageable and sufficiently explained.
 * **COMP2521** [CORE] - Data Structures & Algorithms
- 	* **Description**: 
+ 	* **Description**: DSA in C, which is kinda crazy. You need to do this course ASAP, because it is a prerequisite for pretty much everything. Trees, Graphs, Sorting, Time Complexity, all very important theory, the practical content through labs, assignments and the exam is sufficient, not too hard, but not easy. 
 	* **Lecturer**:  Ashesh
-	* **Difficulty**: 
-	* **Review**: 
+	* **Difficulty**: Medium - Hard
+	* **Review**: Necessary pain, Ashesh ain't fantastic, if you did this with Hayden, wow, you lucked out. Do it with Hayden if you can.
 * **COMP2041** [FREE] - Software Construction
- 	* **Description**: 
-	* **Lecturer**: Andrew Taylor
-	* **Difficulty**: 
-	* **Review**: 
+ 	* **Description**: Shell and Perl and all those unix commands you take for granted. Very very useful course, if you hard of Regex, you learn it here. You could say it's a productivity scripting course, it just opens your eyes to why programming is so strong. All practical, just like COMP1511 with automarking for labs, and a dry test for assignments.
+	* **Lecturer**: Andrew Taylor - Great lecturer, made the content fun and interesting (replace all Hermione's in Harry Potter with his own name)
+	* **Difficulty**: Medium - Exam is what gets you. The assignments have very difficult parts at the end which are worth a tiny percentage.
+	* **Review**: Very much a practical course. I loved it, very useful, highly recommend.
 
 ### 19T3
 * **COMP1531** [CORE] - Software Engineering Fundamentals
@@ -67,10 +67,10 @@
 	* **Difficulty**: Medium
 	* **Review**: Really fun course. You basically are doing a CTF every week for new topics, and a CTF for a midterm and final exam. You also have two group (of 5) reports on how you found the flags and the theory behind the methods of obtaining them (e.g. what is SQL injection).
 * **COMP3331** [ELECTIVE] - Computer Networks
- 	* **Description**: 
-	* **Lecturer**: Wen Hu
-	* **Difficulty**: 
-	* **Review**: 
+ 	* **Description**: How the internet and computer networks work. TCP/UDP, IP, all that internet jargon, explained.
+	* **Lecturer**: Wen Hu - Very eh. He talks fast and hard to understand at times. Not engaging.
+	* **Difficulty**: Hard. The mid term had negative marking (i.e. multiple choice, if you get it wrong, -1 mark). Final exam, all theory.
+	* **Review**: The content is interesting, but it's dry. There's just too much. It's basically all theory, except for tiny pieces in the labs and an assignment where you build some program (in C, Java or Python, I did Python), so you need to really grasp the content theory. I've heard Sahil is a much better lecturer in Networks, so do it in the term he is teaching it.
 
 ### 20T3
 * MATH1231 [CORE] - Math 1B
