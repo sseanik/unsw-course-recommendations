@@ -8,12 +8,12 @@
 ### 19T2
 * **COMP1521** [CORE] - Computer System Fundamentals
  	* **Description**: Basically an intro to lower level programming (MIPS) and lower levelish programming in C. This course helps you understand if you want to take OS, Networks, Concurrency, etc.
-	* **Lecturer**: Sahil
+	* **Lecturer**: Sahil - Good, kinda wish I had Andrew Taylor for this
 	* **Difficulty**: Hard - That dam exam. Jashank has too much fun writing exams, but forgets that it is for a first year course. I've never had an exam writer, come into the lecture room, boast about writing the exam and then give a kinda half warning, half brag.
 	* **Review**: The exam for this course is why I put hard. It's a bloody hard course, but the pre-exam stuff is manageable and sufficiently explained.
 * **COMP2521** [CORE] - Data Structures & Algorithms
  	* **Description**: DSA in C, which is kinda crazy. You need to do this course ASAP, because it is a prerequisite for pretty much everything. Trees, Graphs, Sorting, Time Complexity, all very important theory, the practical content through labs, assignments and the exam is sufficient, not too hard, but not easy. 
-	* **Lecturer**:  Ashesh
+	* **Lecturer**:  Ashesh - Just gotta deal with it
 	* **Difficulty**: Medium - Hard
 	* **Review**: Necessary pain, Ashesh ain't fantastic, if you did this with Hayden, wow, you lucked out. Do it with Hayden if you can.
 * **COMP2041** [FREE] - Software Construction
@@ -120,7 +120,7 @@
 	* **Difficulty**: 
 	* **Review**: 
 
-### Courses I wanted to do, but couldn't for some reason:
+### Courses I wanted to do, but didn't
 * **COMP4511** - UI Design/Mobile App Design
  	* **Description**: 
 * **COMP9322** - Software Service Design
