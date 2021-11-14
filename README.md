@@ -33,15 +33,15 @@
 
 ### 20T0 Summer
 * **COMP3511** [ELECTIVE] - Human Computer Interaction
- 	* **Description**: 
+ 	* **Description**: You learn about UI and UX in a very theoretical way. You focus on 'paper prototypes' of a user interface and the theory behind how humans interact with technology.
 	* **Lecturer**: Sasha
-	* **Difficulty**: 
-	* **Review**: 
+	* **Difficulty**: Easy
+	* **Review**: No coding. Prerequisite for COMP4511. You need to get used to having a design diary and you need to have a good group for the project with accompanying speech.
 * **COMP3411** [Dropped] - Artificial Intelligence
  	* **Description**: 
 	* **Lecturer**: 
-	* **Difficulty**: 
-	* **Review**: 
+	* **Difficulty**: Medium
+	* **Review**: I hate Prolog with a passion. I wish it was all Python.
 
 ### 20T1
 * **COMP3821** [CORE] - Extended Algorithms
@@ -84,10 +84,10 @@
 
 ### 21T1
 * **COMP6080** [FREE] - Frontend
- 	* **Description**: 
+ 	* **Description**: HTML/CSS -> Javascript -> Vanilla Javascript -> React. Very fun course. First assignment is recreate this image (of a website) in HTML, CSS and Javascript. Then given a backend, create a Vanilla Javascript frontend that uses it. Then given a backend, create a ReactJS frontend that uses it. 
 	* **Lecturer**: Hayden
-	* **Difficulty**: 
-	* **Review**: 
+	* **Difficulty**: Medium - Assignments took time
+	* **Review**: You only have 3 assignments and an exam. A purely practical course and extremely useful for your career's future. Hayden is always fantastic at lecturing. The assignments are also fun (instagram and kahoot clones). Highly recommend.
 * **COMP3900** [CORE] - Computer Science Project
  	* **Description**: Capstone project where you work in a group of 5 to deliver an application (usually a web app). The course gives you a selection of choices, but your group can choose your own custom one. You have to write user stories, acceptance criteria, use Jira to track progress, use Github for source control and write up a proposal and final report.
 	* **Difficulty**: Easy - Hard. Get a good group. I advertised in their WebCMS forums detailing my coding and work experience and I got the best of my class. Get a good group.
