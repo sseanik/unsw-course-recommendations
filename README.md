@@ -1,43 +1,46 @@
 # UNSW Computer Science Review
 
-🟢🟡🟠🔴
+🟢 Easy
+🟡 Medium
+🟠 Hard
+🔴 Very Hard
 
 ## Core Courses
-* **COMP1511** - Programming Fundamentals
+* **💻 COMP1511** - Programming Fundamentals
  	* **Description**: Intro to Programming in C. Learn about arrays, looping, structs, pointers, functions, linked lists, a tiny bit of memory management and a tiny bit of testing (e.g. assert). Tutorials are engaging, labs are automarked, so you complete them, run tests, validate that it works and then submit. Tip: Do the extension labs even if you can't get 100% as even if you get a tiny percent, it counts.
 	* **Lecturer**: Marc Chee. Great lecturer, easy to understand and overall gave an entertaining, fun vibe.
 	* **Difficulty**: 🟢 Easy. It will be easy if you have prior coding experience, but potentially Medium if it will be all new to you. It has a very manageable weekly workload, assignments can take time, but are fine and the exam is exponentially difficult.
-	* **Review**: Great course and structure. A practical course other than the exam having a 'Theory' portion (e.g. What does this code output?). Practice the weekly 'test/examish' content more to prep for the exam.
-* **COMP1521** - Computer System Fundamentals
+	* **Review**: Great course and structure. A practical course other than the exam having a 'Theory' portion (e.g. What does this code output?). Practice the weekly tests more to prep for the exam.
+* **👾 COMP1521** - Computer System Fundamentals
  	* **Description**: Basically an intro to lower level programming (MIPS) and system level programming in C (e.g. Bit manipulation, file writing). This course helps you understand if you want to take OS, Networks, Concurrency, etc at a later stage.
 	* **Lecturer**: Sahil - Good. I recommend taking this with Andrew Taylor as he is a fantastic lecturer.
 	* **Difficulty**: 🟠 Hard - That dam exam. Jashank has too much fun writing the exams. He forgets that it is for a first year course. I've never had an exam writer come into the lecture room, boast about writing the exam and then give a kinda half warning, half brag.
 	* **Review**: The pre-exam stuff is manageable and sufficiently doable. It's a bit of an adjustment since you kinda learn more of the intricacies of C (not to mention MIPS), rather than being a continuation of 1511. Feels weird being 15TWO1, as I personally found it the hardest out of 1521, 1531 and 2521.
-* **COMP1531** - Software Engineering Fundamentals
+* **🐍 COMP1531** - Software Engineering Fundamentals
  	* **Description**: Learn Python, Flask (backend Rest API) and Software Engineering aspects (e.g. Agile, Standups, DRY, KISS, State Diagrams). This course helps intro you into Git and source control. You also do a group project across the term with 3 iterations, first being Python & Pytest, second Flask & HTTP Testing and third being Flask, HTTP Testing & Requirements Analysis (e.g. user stories, acceptance criteria, use cases and state diagramming). 
 	* **Lecturer**: Hayden
 	* **Difficulty**: 🟢 Easy if you have a good group, otherwise can be harder
 	* **Review**: Terrific course. I tutor it, so if you're in my class, you lucked out. You need a good group (4 - 5), so recruit well or do it with friends. Python is a very nice and easy to pickup coding language, the labs and time commitment may challenge you, but you learn how to adapt along the way.
-* **COMP2521** - Data Structures & Algorithms
+* **👨‍💻 COMP2521** - Data Structures & Algorithms
  	* **Description**: Feels like the next logical course after 1511 as it's still in C, which is kinda crazy. You need to do this course ASAP, because it is a prerequisite for pretty much everything. Recursion, Doubly Linked lists, Trees, Graphs, Sorting, Time Complexity, all very important in practice AND theory. There's practical content through labs, assignments and the exam, which are all not too hard, but not easy. Very much a practice makes perfect course.
 	* **Lecturer**:  Ashesh - Just gotta deal with it. If you can do this with Hayden, take it the term he teaches it.
 	* **Difficulty**: 🟠 Medium - Hard. It can be Hard if you don't put time into it. If you do 3 subjects a term including 2521, you may struggle, it's a course where you really want to spend as much time as you can on it for the course and your overall CS knowledge.
 	* **Review**: The content of this course is up and down, but it's too important, kinda like a necessary pain. Once you get the hang of it, try to do some Leetcode problems involving Trees and Graphs (use C obviously) and you will be fine. 
-* **COMP2511** - Object Oriented Programming
+* **👨‍🏫 COMP2511** - Object Oriented Programming
  	* **Description**: Learn Java, Classes, Inheritance, Encapsulation, OOP Design Principles. The major project is a pair assignment spanning the entire term. When I did it, we made a 2D Dungeon Crawler game (frontend using JavaFX).
 	* **Lecturer**: Ashesh
 	* **Difficulty**: 🟡 Medium. Difficulty depends if you have a good project partner.
 	* **Review**: When I took it, it was a disaster. You need to complete labs, but then you get interviewed weekly on the theory behind it, rather than the lab itself? Exam was a mess, it got extended multiple times with bad communication. BUT, It has gotten a lot better now, especially with Nick and Braedon admining it. Another kind of necessary pain course, OOP is important, and by the time you take this course, it should be easier than 2521.
-* **COMP3821** - Extended Algorithms
+* **🧮 COMP3821** - Extended Algorithms
  	* **Description**: Pretty much a mathematical computer science course. There is zero coding. You will be writing Pseudocode, with a focus on Time and Space complexity, and proofs (e.g. proof by induction). You go through specific, useful algorithms, Dynamic Programming and more.
 	* **Lecturer**: I forgot. Take it with have Aleks who is quite good.
 	* **Difficulty**: 🔴 Very Hard
 	* **Review**: The only reason I did extended version rather than (COMP3121) was because it was a Term 1 offering (core was not offered in T1) and I did it with a friend. I did it during Pass/Fail, so I can't comment much. If you have a good mathematical background, this won't be a problem. If you struggle with maths (like me), you will have a hard time.
-* **COMP3900** - Computer Science Project
+* **🧱 COMP3900** - Computer Science Project
  	* **Description**: Capstone project where you work in a group of 5 to deliver an application (usually a web app). The course gives you a selection of choices, but your group can choose your own custom one if you wish. You have to write user stories, acceptance criteria, use Jira to track progress, use Github for source control and write up a proposal and final report.
 	* **Difficulty**: 🟢 Easy - Hard. Completely depends on getting a good group. I advertised on their WebCMS forums detailing my coding and work experience and I recruited the best of my class.
 	* **Review**: Great group project experience. My group had a frontend (React) & backend (Flask + AWS RDS PostgreSQL) teams and we worked very efficiently.
-* **COMP4920** - Ethics in IT
+* **📚 COMP4920** - Ethics in IT
  	* **Description**: Pure theory, essay writing and the like. There are two Lecture Summaries, one pair Movie Review (on the Social Dilemma), a group (4 - 5) seminar/presentation discussion and a final company case study.
 	* **Lecturer**: Wayne
 	* **Difficulty**: 🟡 Medium. If you have a good Movie Review partner and a good seminar group, this course will be easy. You need to absolutely not be shy and put your hand up to answer questions in seminars and engage in discussion. I'm a social butterfly, so it's easy for me, but if you're shy, it'll be hard for you to get seminar participation marks.
@@ -45,19 +48,19 @@
 
 ## COMP/Free Electives
 * **COMP2041** - Software Construction **(STRONGLY RECOMMEND)**
-	* **Description**: Shell and Perl and all those unix commands you take for granted. Very very useful course, if you hard of Regex, you learn it here. You could say it's a productivity scripting course, it just opens your eyes to why programming is so strong. All practical, just like COMP1511 with automarking for labs, and dry tests for assignments.
-	* **Lecturer**: Andrew Taylor - Great lecturer, made the content fun and interesting (replace all Hermione's in Harry Potter with his own name)
-	* **Difficulty**: Medium - Exam is what gets you. The assignments have very difficult parts at the end which are worth a tiny percentage.
-	* **Review**: Very much a practical course. I loved it, very useful, highly recommend.
+	* **Description**: Shell and Perl and all those unix shell commands you take for granted. Very very useful course, if you have heard of Regex, you learn it here. You could say it's a productivity scripting course, it just opens your eyes to why programming is so important. All practical, just like COMP1511 with automarking for labs, weekly tests, and dry tests for assignments.
+	* **Lecturer**: Andrew Taylor - Great lecturer, made the content fun and interesting (e.g. he replaced all Hermione's in Harry Potter with his own name)
+	* **Difficulty**: 🟠 Medium. The exam gets exponentially harder like in 1511. The assignments have very difficult parts at the end which are worth a tiny percentage, so to 100% them, it's hard.
+	* **Review**: Very much a practical course. I loved it, very useful, highly recommend. You won't find a former student of 2041 giving it a bad review, the content is great, the lecturer is great, the structure is great, you can't lose here.
 * **COMP3311** - Database Systems **(STRONGLY RECOMMEND)**
- 	* **Description**: Learn SQL, specifically PostgreSQL
+ 	* **Description**: Learn SQL, specifically PostgreSQL. DBMS, Entity Relationship Diagrams, SQL Queries, PLpgSQL functions, using Python and Psycopg2 to connect and execute database commands.
 	* **Lecturer**: John Sheppard
-	* **Difficulty**: Easy - Medium.
-	* **Review**: Very useful course, you will have to learn SQL at some point, why not in this course. The homework, assignments and even the exam have fun databases (e.g. pizza, beer databases) and the course is paced quite nicely. Some people dislike Jas cos he sounds 'old' and 'boring', I found him quite endearing and he was easily understandable.
+	* **Difficulty**: 🟢 Easy.
+	* **Review**: Very useful course, you will have to learn SQL at some point, why not in this course. The homework, assignments and even the exam have fun databases (e.g. pizza, beer databases) and the course is paced quite nicely. Some people dislike Jas cos he sounds 'old' and 'boring', but I found him quite endearing and he supported the cohort quite well.
 * **COMP3511** - Human Computer Interaction
  	* **Description**: You learn about UI and UX in a very theoretical way. You focus on 'paper prototypes' of a user interface and the theory behind how humans interact with technology.
 	* **Lecturer**: Sasha
-	* **Difficulty**: Easy
+	* **Difficulty**: 🟢 Easy
 	* **Review**: No coding. Prerequisite for COMP4511. You need to get used to having a design diary and you need to have a good group for the project with accompanying speech.
 * **COMP3331** - Computer Networks
  	* **Description**: How the internet and computer networks work. TCP/UDP, IP, all that internet jargon, explained.
