@@ -1,7 +1,5 @@
 # UNSW Computer Science Review
 
-🟢🟡🟠🔴
-
 ## Core Courses
 * **💻 COMP1511** - Programming Fundamentals
  	* **Description**: Intro to Programming in C. Learn about arrays, looping, structs, pointers, functions, linked lists, a tiny bit of memory management and a tiny bit of testing (e.g. assert). Tutorials are engaging, labs are automarked, so you complete them, run tests, validate that it works and then submit. Tip: Do the extension labs even if you can't get 100% as even if you get a tiny percent, it counts.
@@ -40,7 +38,7 @@
 * **📚 COMP4920** - Ethics in IT
  	* **Description**: Pure theory, essay writing and the like. There are two Lecture Summaries, one pair Movie Review (on the Social Dilemma), a group (4 - 5) seminar/presentation discussion and a final company case study.
 	* **Lecturer**: Wayne
-	* **Difficulty**: 🟡 Medium. If you have a good Movie Review partner and a good seminar group, this course will be easy. You need to absolutely not be shy and put your hand up to answer questions in seminars and engage in discussion. I'm a social butterfly, so it's easy for me, but if you're shy, it'll be hard for you to get seminar participation marks.
+	* **Difficulty**: 🟠 Hard. If you have a good Movie Review partner and a good seminar group, this course will be easier. You need to absolutely not be shy and put your hand up to answer questions in seminars and engage in discussion. I'm a social butterfly, so it's easy for me, but if you're shy, it'll be hard for you to get seminar participation marks.
 	* **Review**: Part of this course is weird and subjective. "In order to get a HD, you need to produce a journal quality essay", keeps being tossed around. It's quite an adjustment, just go back in time, to High School english, and write, reference and critically analyse Ethics in IT.
 
 ## COMP/Free Electives
@@ -96,28 +94,33 @@
 	* **Review**: Just get a good group, and the garbage around the course will be less of an issue. Unlike 3900, there are caps on topics (i.e. only 2 groups can choose one topic), there's no peer review (wtf) and the written reports are so hard to grasp what they want, that you might as well be submitting a random text generator, cos what you did was wrong.
 
 ## Gen Ed/Other Courses
-* **BENV2409** - Immersive Digital Environments
- 	* **Description**: 
-	* **Lecturer**: 
-	* **Difficulty**: Easy
-	* **Review**: 
- * **SCIF1004** - Science and Cinema
- 	* **Description**: 
-	* **Lecturer**: 
-	* **Difficulty**: Easy
-	* **Review**: 
-* **CDEV3200** - Co-NNECTIONS Placement
- 	* **Description**: 
-	* **Difficulty**: Medium
-	* **Review**: 
+* **🎮 BENV2409** - Immersive Digital Environments
+ 	* **Description**: You learn about AR, VR, game design, but to the lowest extent.
+	* **Difficulty**: 🟢 Easy
+	* **Review**: I took it for a WAM Booster, and I highly regret it now. I got a high mark, but I didn't learn anything. It's nothing to really do with Computer Science. Sadness.
+ * **🎥 SCIF1004** - Science and Cinema
+ 	* **Description**: How science in movie films is portrayed accurately and inaccurately. You need to watch a bunch of films such as Contagion, Jurassic Park, The Martian and a few more to answer some multiple choice questions. You also have to write a few essays talking about the science in these movies and critically analyse them.
+	* **Difficulty**: 🟢 Easy
+	* **Review**: I took this as a general education subject over the summer during an internship because I like watching Sci-Fi movies, and I am pretty good at writing essays. You still have to do the work, but you can take it in a nice pace.
+* **👔 CDEV3200** - Co-NNECTIONS Placement
+ 	* **Description**: Literally a Paid Internship at a company that also counts as a course. You have to interview with Co-NNECTIONS to get the spot, but if you are successful, then why not take it? The only kind of course stuff you have to do, is you need to submit Professional Development Plans, reflective pieces, a final presentation and a final report to Moodle and your manager.
+	* **Difficulty**: 🟡 Medium
+	* **Review**: Really enjoying it, it's basically work and uni combined. I think it's nice to do one of these type of professional development courses or even a VIP course (https://www.challeng.unsw.edu.au/vertically-integrated-projects-0) where you work, but it counts as units of credit.
 
 ## Courses I wanted to do, but didn't
-* **COMP3411** [Dropped] - Artificial Intelligence
- 	* **Description**: 
-	* **Lecturer**: 
-	* **Difficulty**: Medium
-	* **Review**: I hate Prolog with a passion. I wish it was all Python.
-* **COMP4511** - UI Design/Mobile App Design
- 	* **Description**: 
-* **COMP9322** - Software Service Design
- 	* **Description**: 
+* **🇦🇮 COMP3411** [Dropped] - Artificial Intelligence
+ 	* **Description**: This course introduces you to all types of AI and helps you decide if you want to take further AI related courses such as Neural Networks, Machine Learning, Knowledge & Reasoning, etc.
+	* **Difficulty**: 🟡 Medium
+	* **Review**: I hate Prolog with a passion. I wish it was all Python. The content is too dry, similar to networks, there is a LOT and there isn't much accompanying practical components where you get to code.
+* **📱 COMP4511** - UI Design/Mobile App Design
+ 	* **Description**: A continuation of COMP3511 HCI, but you have a focus on Mobile App design. You get to learn React Native to build mobile applications, which I really wanted to learn.
+* **📦 COMP9322** - Software Service Design
+ 	* **Description**: Web APIs, Containers, Docker, Chat Bots, Graph Data. I wanted to take this course, because the content seems useful and interesting. The course structure was apparently garbage, but if you can get over that, still seems like a fun course. Kind of like COMP9321 part 2 I guess.
+
+## Courses I recommend, but didn't want to do
+* **🖥️ COMP3231** - Operating Systems
+ 	* **Description**: So I didn't pick OS because I couldn't fit it in my plan as I knew it's kind of a time drain. The assignment is in pairs so if you do it, find a good partner. Everyone of my friends who has done it, has raved about it, saying, "it's just such a useful course and I feel like a much better programmer for having done it". Traditionally a hard course, but rewarding.
+* **🥊 COMP4128** - Programming Challenges
+ 	* **Description**: First off, be good at Data Structures & Algos, Algorithms and C++. You need all that to go through the fiery hellish pits of programming challenges. The smartest people I know have taken it and got through it. It's very hard. BUT, I reckon if you can survive this, then you'll be able to ace any technical interview you have in your life. Too hard for me, but if you destroy COMP3121/COMP3821, give this a go.
+* **💱 COMP6451 & COMP6452** - Crypto and Blockchain
+ 	* **Description**: Not sure if I recommend these, moreso I was just always curious about crypto and blockchain, and actually learning what they are. I still don't know anything about them, but to learn it at uni? Might be good, might be bad, dunno.
