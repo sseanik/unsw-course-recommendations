@@ -1,11 +1,14 @@
 # Sean's UNSW Computer Science Review
 
+🟢🟡🟠🔴
+
 ## Core Courses
 * **💻 COMP1511** - Programming Fundamentals
  	* **Description**: Intro to Programming in C. Learn about arrays, looping, structs, pointers, functions, linked lists, a tiny bit of memory management and a tiny bit of testing (e.g. assert). Tutorials are engaging, labs are automarked, so you complete them, run tests, validate that it works and then submit. Tip: Do the extension labs even if you can't get 100% as even if you get a tiny percent, it counts.
 	* **Lecturer**: Marc Chee. Great lecturer, easy to understand and overall gave an entertaining, fun vibe.
 	* **Difficulty**: 🟢 Easy. It will be easy if you have prior coding experience, but potentially Medium if it will be all new to you. It has a very manageable weekly workload, assignments can take time, but are fine and the exam is exponentially difficult.
 	* **Review**: Great course and structure. A practical course other than the exam having a 'Theory' portion (e.g. What does this code output?). Practice the weekly tests more to prep for the exam.
+
 * **👾 COMP1521** - Computer System Fundamentals
  	* **Description**: Basically an intro to lower level programming (MIPS) and system level programming in C (e.g. Bit manipulation, file writing). This course helps you understand if you want to take OS, Networks, Concurrency, etc at a later stage.
 	* **Lecturer**: Sahil - Good. I recommend taking this with Andrew Taylor as he is a fantastic lecturer.
@@ -47,6 +50,7 @@
 	* **Lecturer**: Andrew Taylor - Great lecturer, made the content fun and interesting (e.g. he replaced all Hermione's in Harry Potter with his own name)
 	* **Difficulty**: 🟡 Medium. The exam gets exponentially harder like in 1511. The assignments have very difficult parts at the end which are worth a tiny percentage, so to 100% them, it's hard.
 	* **Review**: Very much a practical course. I loved it, very useful, highly recommend. You won't find a former student of 2041 giving it a bad review, the content is great, the lecturer is great, the structure is great, you can't lose here.
+
 * **📋 COMP3311** - Database Systems **(STRONGLY RECOMMEND)**
  	* **Description**: Learn SQL, specifically PostgreSQL. DBMS, Entity Relationship Diagrams, SQL Queries, PLpgSQL functions, using Python and Psycopg2 to connect and execute database commands.
 	* **Lecturer**: John Sheppard
@@ -86,7 +90,7 @@
 	* **Description**: You learn about Python, in particular Pandas and Numpy with tabular data manipulation. Pretty easy python stuff. Then onto Rest APIs, in particular with Flask Restx (which is Flask + Swagger documentation), then an Intro to Machine learning. If you have taken 1531, you are 50% done when you first start this course.
 	* **Lecturer**: Morty
 	* **Difficulty**: 🟢 Easy. The only 'WAM Booster' on this list.
-	* **Review**: Great course to take a breather in. No tutorials. Only 3 assignments and an exam. Both the assignments and exam have some written components (so a bit of theory) and coding components. Course also really strengthen my Python skills.
+	* **Review**: Great course to take a breather in. No tutorials. Only 3 assignments and an exam. Both the assignments and exam have some written components (so a bit of theory) and coding components. Course also really strengthend my Python skills.
 * **🏘️ COMP9323** - Software as a Service Project
  	* **Description**: Basically COMP3900, but with a smaller cohort that mixes postgrads with undergrads.
 	* **Difficulty**: 🟡 Medium. Depends on your group. Don't do this, if you don't know anyone. If you want to brave it, recruit well.
@@ -98,6 +102,7 @@
  	* **Description**: You learn about AR, VR, game design, but to the lowest extent.
 	* **Difficulty**: 🟢 Easy
 	* **Review**: I took it for a WAM Booster, and I highly regret it now. I got a high mark, but I didn't learn anything. It's nothing to really do with Computer Science. Sadness.
+
  * **🎥 SCIF1004** - Science and Cinema
  	* **Description**: How science in movie films is portrayed accurately and inaccurately. You need to watch a bunch of films such as Contagion, Jurassic Park, The Martian and a few more to answer some multiple choice questions. You also have to write a few essays talking about the science in these movies and critically analyse them.
 	* **Difficulty**: 🟢 Easy
@@ -112,6 +117,7 @@
  	* **Description**: This course introduces you to all types of AI and helps you decide if you want to take further AI related courses such as Neural Networks, Machine Learning, Knowledge & Reasoning, etc.
 	* **Difficulty**: 🟡 Medium
 	* **Review**: I hate Prolog with a passion. I wish it was all Python. The content is too dry, similar to networks, there is a LOT and there isn't much accompanying practical components where you get to code.
+
 * **📱 COMP4511** - UI Design/Mobile App Design
  	* **Description**: A continuation of COMP3511 HCI, but you have a focus on Mobile App design. You get to learn React Native to build mobile applications, which I really wanted to learn.
 * **📦 COMP9322** - Software Service Design
@@ -120,6 +126,7 @@
 ## Courses I recommend, but didn't want to do
 * **🖥️ COMP3231** - Operating Systems
  	* **Description**: So I didn't pick OS because I couldn't fit it in my plan as I knew it's kind of a time drain. The assignment is in pairs so if you do it, find a good partner. Everyone of my friends who has done it, has raved about it, saying, "it's just such a useful course and I feel like a much better programmer for having done it". Traditionally a hard course, but rewarding.
+
 * **🥊 COMP4128** - Programming Challenges
  	* **Description**: First off, be good at Data Structures & Algos, Algorithms and C++. You need all that to go through the fiery hellish pits of programming challenges. The smartest people I know have taken it and got through it. It's very hard. BUT, I reckon if you can survive this, then you'll be able to ace any technical interview you have in your life. Too hard for me, but if you destroy COMP3121/COMP3821, give this a go.
 * **💱 COMP6451 & COMP6452** - Crypto and Blockchain
