@@ -1,4 +1,4 @@
-# UNSW Computer Science Review
+# Sean's UNSW Computer Science Review
 
 ## Core Courses
 * **💻 COMP1511** - Programming Fundamentals
