@@ -1,5 +1,7 @@
 # Sean's UNSW Computer Science Review
 
+Note: These are my biased, optionated and subjective reviews. Courses are different for everyone, I myself, am a more practical programmer, thus I enjoyed more practical courses rather than theory. If I mention the structure or staff having a poor experience, they may have improved by now.
+
 ## Core Courses
 * **💻 COMP1511** - Programming Fundamentals
  	* **Description**: Intro to Programming in C. Learn about arrays, looping, structs, pointers, functions, linked lists, a tiny bit of memory management and a tiny bit of testing (e.g. assert). Tutorials are engaging, labs are automarked, so you complete them, run tests, validate that it works and then submit. Tip: Do the extension labs even if you can't get 100% as even if you get a tiny percent, it counts.
